@@ -67,7 +67,7 @@ The security groups were verified through Active Directory Users and Computers b
 
 ## Screenshots
 ### Security Groups Created
+https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/18.%20Security%20Groups%20Created.png
 
 ## Lessons Learned
-
 This phase demonstrated how Active Directory uses security groups to simplify access management. Managing permissions through groups improves security, reduces administrative workload, and supports the principle of least privilege.
