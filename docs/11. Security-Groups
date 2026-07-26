@@ -1,1 +1,73 @@
+# Active Directory Security Groups
 
+## Overview
+Security Groups in Active Directory are used to organize users and computers that require similar access permissions.
+
+Instead of assigning permissions directly to individual users, administrators assign permissions to groups. Users who are members of those groups automatically inherit the permissions assigned to the group.
+
+This makes managing access easier, more consistent, and more secure.
+
+## Purpose
+In this lab, security groups were created to represent different job roles within an organization.
+
+Security groups allow administrators to:
+
+- Manage permissions efficiently
+- Apply access based on job responsibilities
+- Reduce the need to configure users individually
+- Follow the principle of least privilege
+
+## Security Groups Created
+The following security groups were created:
+
+| Group Name | Purpose |
+
+| IT_Admins | Provides administrative access for IT personnel |
+| Help_Desk | Represents technical support personnel |
+| HR | Represents Human Resources users |
+| Finance | Represents Finance department users |
+
+## Group Membership
+Users were assigned to security groups based on their department and role.
+
+
+## Creating Security Groups
+Security groups were created using Active Directory Users and Computers.
+
+Steps performed:
+
+1. Opened Active Directory Users and Computers.
+2. Selected the appropriate Organizational Unit.
+3. Right-clicked and selected New → Group.
+4. Entered the group name.
+5. Selected Global scope.
+6. Selected Security as the group type.
+7. Added users as group members.
+
+## Security Group Types
+For this lab, Global Security Groups were used.
+
+Global groups are commonly used to organize users based on job roles or departments. Permissions can then be assigned to these groups to control access to resources.
+
+## Real-World Example
+In an enterprise environment:
+
+- A Finance group may receive access to financial documents.
+- A Help Desk group may receive permissions to reset user passwords.
+- IT Administrators may receive elevated administrative privileges.
+
+Administrators manage access by changing group membership instead of changing permissions for each user individually.
+
+## Verification
+The security groups were verified through Active Directory Users and Computers by confirming that:
+
+- Groups were created successfully.
+- Users were added as members.
+- Groups were located in the correct Organizational Units.
+
+## Screenshots
+### Security Groups Created
+
+## Lessons Learned
+
+This phase demonstrated how Active Directory uses security groups to simplify access management. Managing permissions through groups improves security, reduces administrative workload, and supports the principle of least privilege.
