@@ -22,3 +22,4 @@ A static IP address is important for servers because network devices need a pred
 ## Verification
 After applying the static IP configuration, the settings were verified using the Windows command: ipconfig /all
 
+##Screenshot
