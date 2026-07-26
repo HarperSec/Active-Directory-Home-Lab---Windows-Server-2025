@@ -1,7 +1,13 @@
 #Install Windows Server 2025
 
-#Objective
+## Overview
+Windows Server is Microsoft's server operating system used to provide services such as Active Directory, DNS, DHCP, file sharing, and virtualization.
 
+Organizations use Windows Server to centrally manage users, computers, permissions, and network resources.
+
+Virtualization allows multiple operating systems to run on one physical computer, making it easier to build labs while reducing hardware costs.
+
+#Objective
 Install Windows Server 2025 in a VMware virtual machine to create the foundation for an Active Directory lab.
 
 #Environment
