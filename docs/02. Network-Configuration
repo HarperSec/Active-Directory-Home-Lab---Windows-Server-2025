@@ -23,3 +23,4 @@ A static IP address is important for servers because network devices need a pred
 After applying the static IP configuration, the settings were verified using the Windows command: ipconfig /all
 
 ##Screenshot
+https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/05.%20Static%20IP.png
