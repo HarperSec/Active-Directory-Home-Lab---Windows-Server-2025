@@ -96,13 +96,3 @@ Detailed documentation and screenshots can be found in the `/docs` folder.
 Through this project, I gained practical experience building and managing an Active Directory environment.
 
 I learned how organizations use Windows Server to provide centralized identity management, control access through security groups, enforce security policies, and monitor system activity through logs.
-
-# Future Improvements
-Future additions to this lab include:
-
-- Adding a Windows 11 client machine
-- Joining client computers to the domain
-- Creating shared folders with NTFS permissions
-- Implementing additional Group Policies
-- Configuring DHCP and DNS services
-- Simulating security events for investigation
