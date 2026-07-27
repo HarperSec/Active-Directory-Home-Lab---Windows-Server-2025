@@ -58,7 +58,7 @@ Common security practices include:
 
 ## Screenshots
 ### Creating a User Account
-[![Creating User](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/17.%20Create%20User.png)
+[![Creating User](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/17-Create%20User.png)
 
 
 ## Lessons Learned
