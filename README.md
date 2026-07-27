@@ -105,3 +105,6 @@ Future additions to this lab include:
 - Implementing additional Group Policies
 - Configuring DHCP and DNS services
 - Simulating security events for investigation
+
+[![Test](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/16.%20After%20OU.png)
+
