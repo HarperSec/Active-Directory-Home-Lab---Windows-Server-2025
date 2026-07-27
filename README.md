@@ -17,10 +17,11 @@ This project simulates a small business environment where a Windows Server Domai
 - Windows 11 Client (Future Expansion)
 
 ## Domain Information
-Domain Name: harper.local
-Domain Controller: Harper-7476
-
-Network Configuration: IP Address: 192.168.42.50 | Subnet Mask: 255.255.255.0 | Gateway: 192.168.42.2
+Domain Name: harper.local  
+Domain Controller: Harper-7476  
+Network Configuration: IP Address: 192.168.42.50  
+Subnet Mask: 255.255.255.0  
+Gateway: 192.168.42.2  
 
 # Technologies Demonstrated
 
@@ -78,16 +79,16 @@ Used Windows Event Viewer to analyze:
 # Lab Phases
 | Phase | Description |
 
-| 1 | Windows Server Installation |
-| 2 | Static IP Configuration |
-| 3 | Server Manager Overview |
-| 4 | Installing Active Directory Domain Services |
-| 5 | Promoting Server to Domain Controller |
-| 6 | Creating Organizational Units |
-| 7 | Creating User Accounts |
-| 8 | Creating Security Groups |
-| 9 | Configuring Group Policy |
-| 10 | Reviewing Event Logs |
+| 1 | Windows Server Installation |  
+| 2 | Static IP Configuration |  
+| 3 | Server Manager Overview |  
+| 4 | Installing Active Directory Domain Services |  
+| 5 | Promoting Server to Domain Controller |  
+| 6 | Creating Organizational Units |  
+| 7 | Creating User Accounts |  
+| 8 | Creating Security Groups |  
+| 9 | Configuring Group Policy |  
+| 10 | Reviewing Event Logs |  
 
 Detailed documentation and screenshots can be found in the `/docs` folder.
 
