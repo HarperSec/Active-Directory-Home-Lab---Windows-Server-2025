@@ -54,11 +54,11 @@ After restarting, the server was verified as a Domain Controller by:
 
 ## Screenshots
 ### Domain Name
-https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/12.%20Domain.png
+[![Domain](path/to/image.png)]((https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/12.%20Domain.png))
 ### Forest Level
-https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/13.%20Forest%20Level.png
+[![Forest Level](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/13.%20Forest%20Level.png)
 ### Review 
-https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/14.%20Review.png
+[![Review](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/14.%20Review.png)
 
 
 
