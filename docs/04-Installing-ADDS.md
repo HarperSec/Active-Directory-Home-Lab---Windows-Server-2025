@@ -52,11 +52,11 @@ The next step in this lab is promoting the server to a Domain Controller and cre
 
 ## Screenshots
 ### Add Roles and Features Wizard
-[![Wizard](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/08.%20Wizard%20Beginning.png)  
-[![Add Roles](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/09.%20Add%20Roles.png)
+[![Wizard](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/08-Wizard%20Beginning.png)  
+[![Add Roles](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/09-Add%20Roles.png)
 ### Installation Progress and Completion 
-[![Installation Progress](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/10.%20Install%20Progress.png)  
-[![description](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/11.%20ADDS%20Installed.png)
+[![Installation Progress](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/10-Install%20Progress.png)  
+[![description](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/11-ADDS%20Installed.png)
 
 
 
