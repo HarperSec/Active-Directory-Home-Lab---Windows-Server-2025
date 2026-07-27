@@ -22,9 +22,9 @@ The following security groups were created:
 
 | Group Name | Purpose |
 
-| IT_Admins | Provides administrative access for IT personnel |
-| Help_Desk | Represents technical support personnel |
-| HR | Represents Human Resources users |
+| IT_Admins | Provides administrative access for IT personnel |  
+| Help_Desk | Represents technical support personnel |  
+| HR | Represents Human Resources users |  
 | Finance | Represents Finance department users |
 
 ## Group Membership
