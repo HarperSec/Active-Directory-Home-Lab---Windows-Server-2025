@@ -28,12 +28,12 @@ The GPO was created using Group Policy Management and linked to an Active Direct
 
 # Screenshots
 ## Group Policy Management
-[![Group Policy Management](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/19.%20Group%20Policy%20Management.png)
+[![Group Policy Management](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/19-Group%20Policy%20Management.png)
 ### Created GPO
-[![Created GPO](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/20.%20Created%20GPO.png)
+[![Created GPO](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/20-Created%20GPO.png)
 ### Password Policy Settings
-[![Password Policy Setting](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/21.%20Password%20Policy%20Settings.png)  
+[![Password Policy Setting](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/21-Password%20Policy%20Settings.png)  
 ### GPO Linked
-[![GPO Linked](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/22.%20GPO%20Linked.png)
+[![GPO Linked](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/22-GPO%20Linked.png)
 ## Lessons Learned
 Group Policy allows administrators to manage security settings centrally instead of configuring each computer individually. This improves consistency and reduces administrative effort.
