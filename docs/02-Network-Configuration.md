@@ -24,7 +24,7 @@ After applying the static IP configuration, the settings were verified using the
 
 ## Screenshot
 ### Default Computer Name Before and After
-[![Before Change](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/03.%20Default%20Computer%20Name.png)  
+[![Before Change](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/03-Default%20Computer%20Name.png)  
 [![After Change](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/16.%20After%20OU.png)
 ### Static IP and Validation
 [![Static IP](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/05.%20Static%20IP.png)  
