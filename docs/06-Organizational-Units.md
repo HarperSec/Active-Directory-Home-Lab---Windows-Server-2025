@@ -44,7 +44,7 @@ The Organizational Units were verified using Active Directory Users and Computer
 
 ## Screenshots
 ### Active Directory Users and Computers Before and After
-[![Before OU](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/15.%20Before%20OU.png)  
-[![After OU](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/16.%20After%20OU.png)
+[![Before OU](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/15-Before%20OU.png)  
+[![After OU](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/16-After%20OU.png)
 ## Lessons Learned
 Creating Organizational Units demonstrated how Active Directory objects can be organized for easier administration. OUs are an important part of enterprise Active Directory because they allow administrators to apply policies and manage resources based on organizational needs.
