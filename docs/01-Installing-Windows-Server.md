@@ -36,7 +36,7 @@ Logged in using the Administrator account.
 Server booted without errors.  
 
 ## Screenshot  
-![Windows Server 2025](../screenshots/01-%20Windows%20Server%202025.png)  
+[![Installation Process](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/01.%20Windows%20Server%202025.png)
 [![Installation Process](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/02.%20Installation%20Process.png)
 
 
