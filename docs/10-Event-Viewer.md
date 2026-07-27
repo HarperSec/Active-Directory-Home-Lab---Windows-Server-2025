@@ -1,11 +1,11 @@
 ## Important Security Event IDs
 
-| Event ID | Description |
+| Event ID | Description |  
 
-| 4624 | Successful logon |
-| 4625 | Failed logon |
-| 4720 | User account created |
-| 4726 | User account deleted |
+| 4624 | Successful logon |  
+| 4625 | Failed logon |  
+| 4720 | User account created |  
+| 4726 | User account deleted |  
 | 4732 | User added to security-enabled local group |
 
 ## Cybersecurity Importance
