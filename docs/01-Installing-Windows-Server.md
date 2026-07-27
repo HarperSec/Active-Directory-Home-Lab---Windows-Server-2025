@@ -7,10 +7,10 @@ Organizations use Windows Server to centrally manage users, computers, permissio
 
 Virtualization allows multiple operating systems to run on one physical computer, making it easier to build labs while reducing hardware costs.
 
-##Objective  
+## Objective  
 Install Windows Server 2025 in a VMware virtual machine to create the foundation for an Active Directory lab.
 
-##Environment  
+## Environment  
 Host OS: Windows 11
 Hypervisor: VMware Workstation Pro
 Guest OS: Windows Server 2025
@@ -18,7 +18,7 @@ RAM Allocated: 4 GB
 CPU: 2 vCPUs
 Disk Size: 60 GB
 
-##Steps Performed  
+## Steps Performed  
 Created a new virtual machine in VMware Workstation Pro.
 Attached the Windows Server 2025 ISO.
 Allocated virtual hardware resources.
@@ -30,13 +30,13 @@ Selected Custom Installation.
 Installed Windows Server on the virtual disk.
 Completed the initial setup and created the Administrator password.
 
-##Result  
+## Result  
 Windows Server 2025 installed successfully.
 Logged in using the Administrator account.
 Server booted without errors.
 
 ##Screenshot  
-[![Windows Sever 2025](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/01.%20Windows%20Server%202025.png)
+[![Windows Sever 2025](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/01.%20Windows%20Server%202025.png)  
 [![Installation Process](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/02.%20Installation%20Process.png)
 
 
