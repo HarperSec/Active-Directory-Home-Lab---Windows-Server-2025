@@ -17,8 +17,8 @@ Promoting the server to a Domain Controller allows it to manage an Active Direct
 ## Domain Configuration
 A new Active Directory forest and domain were created for this lab.
 
-Domain Name: harper.local
-Domain Controller: Harper-7476
+Domain Name: harper.local  
+Domain Controller: Harper-7476  
 Forest Functional Level: Windows Server 2025
 
 ## Promotion Process
