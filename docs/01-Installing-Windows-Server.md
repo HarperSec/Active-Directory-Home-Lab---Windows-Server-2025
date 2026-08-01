@@ -35,7 +35,9 @@ Windows Server 2025 installed successfully.
 Logged in using the Administrator account.  
 Server booted without errors.  
 
+### Windows Server
 ![Windows Server](../screenshots/01-Windows%20Server%202025.png)
+### Installation Process
 ![Installation Process](../screenshots/02-Installation%20Process.png)
 
 ## Lessons Learned  
