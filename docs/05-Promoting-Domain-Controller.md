@@ -36,6 +36,14 @@ Steps performed:
 8. Installed Active Directory Domain Services.
 9. Restarted the server.
 
+### Domain Name
+![Domain Name](../screenshots/12-Domain.png)
+### -
+![-](../screenshots/13-Forest%20Level.png)
+### Review 
+![Review](../screenshots/14-Review.png)
+
+
 ## Active Directory Components Created
 The promotion process created:
 
@@ -51,15 +59,6 @@ After restarting, the server was verified as a Domain Controller by:
 - Logging in with the domain administrator account
 - Opening Active Directory Users and Computers
 - Confirming the domain structure was available
-
-## Screenshots
-### Domain Name
-[![Domain](path/to/image.png)]((https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/12-Domain.png))
-### Forest Level
-[![Forest Level](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/13-Forest%20Level.png)
-### Review 
-[![Review](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/14-Review.png)
-
 
 
 
