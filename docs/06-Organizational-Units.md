@@ -33,6 +33,12 @@ Steps performed:
 5. Selected New → Organizational Unit.
 6. Created department-based OUs.
 
+## Active Directory Users and Computers Before and After 
+### Before
+![Before](../screenshots/15-Before%20OU.png)  
+### After
+![After](../screenshots/16-After%20OU.png)
+
 ## Real-World Use Case
 In an enterprise environment, OUs allow administrators to manage thousands of users and computers efficiently.
 
@@ -42,9 +48,5 @@ The IT department may require different permissions than the Finance department.
 ## Verification
 The Organizational Units were verified using Active Directory Users and Computers by confirming that the new OU structure appeared under the domain.
 
-## Screenshots
-### Active Directory Users and Computers Before and After
-[![Before OU](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/15-Before%20OU.png)  
-[![After OU](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/16-After%20OU.png)
 ## Lessons Learned
 Creating Organizational Units demonstrated how Active Directory objects can be organized for easier administration. OUs are an important part of enterprise Active Directory because they allow administrators to apply policies and manage resources based on organizational needs.
