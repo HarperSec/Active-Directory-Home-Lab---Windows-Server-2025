@@ -20,12 +20,18 @@ Security professionals use logs to:
 
 A SOC analyst may review these events in a SIEM platform such as Splunk or Microsoft Sentinel to identify threats across an organization.
 
-## Screenshots
 ### Event Viewer Dashboard
-[![Viewer Dashboard](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/23-Event%20Viewer%20Dashboard.png)
+
+![Event Viewer Dashboard](../screenshots/23-Event%20Viewer%20Dashboard.png)
+
 ### Successful Login Event
-[![Successful Login Event](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/24-Successful%20Login%20Event.png)
+
+![Successful Login Event](../screenshots/24-Successful%20Login%20Event.png)
+
 ### Failed Login Event
-[![Failed Login Event](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/25-Failed%20Login%20Event.png)
+
+![Failed Login Event](../screenshots/25-Failed%20Login%20Event.png)
+
 ### User Created Event
-[![User Created](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/26-User%20Created%20Event.png)
+
+![User Created Event](../screenshots/26-User%20Created%20Event.png)
