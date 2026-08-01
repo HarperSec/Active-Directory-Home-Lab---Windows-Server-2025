@@ -22,10 +22,18 @@ A static IP address is important for servers because network devices need a pred
 ## Verification
 After applying the static IP configuration, the settings were verified using the Windows command: ipconfig /all
 
-## Screenshot
-### Default Computer Name Before and After
-[![Before Change](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/03-Default%20Computer%20Name.png)  
-[![After Change](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/16-After%20OU.png)
-### Static IP and Validation
-[![Static IP](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/05-Static%20IP.png)  
-[![Validation](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/06-IP%20Configuration%20Verification.png)
+
+## Default Computer Name Before and After
+### Before
+![Computer Name](../screenshots/03-Default%20Computer%20Name.png)
+
+### After
+![After Change](../screenshots/16-After%20OU.png)
+
+## Static IP and Validation
+### Static IP
+![Static IP](../screenshots/05-Static%20IP.png)
+
+### Validation
+![Validation](../screenshots/06-IP%20Configuration%20Verification.png)
+
