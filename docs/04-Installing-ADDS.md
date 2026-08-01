@@ -32,6 +32,14 @@ Steps performed:
 7. Confirmed the installation selections.
 8. Installed the AD DS role.
 
+### Begining
+![Wizard](../screenshots/08-Wizard%20Beginning.png)
+### Add Roles
+![Add Roles](../screenshots/09-Add%20Roles.png)
+### Installation Process
+![Install Process](../screenshots/10-Install%20Progress.png)
+### Installed
+![Installed](../screenshots/11-ADDS%20Installed.png)
 
 ## Why AD DS Is Important
 In enterprise environments, Active Directory provides a centralized method for managing thousands of users, computers, and services.
@@ -48,15 +56,6 @@ For example, an organization can use Active Directory to:
 After installation, Server Manager displayed a notification indicating that additional configuration was required to promote the server to a Domain Controller.
 
 The next step in this lab is promoting the server to a Domain Controller and creating an Active Directory domain.
-
-
-## Screenshots
-### Add Roles and Features Wizard
-[![Wizard](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/08-Wizard%20Beginning.png)  
-[![Add Roles](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/09-Add%20Roles.png)
-### Installation Progress and Completion 
-[![Installation Progress](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/10-Install%20Progress.png)  
-[![description](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/11-ADDS%20Installed.png)
 
 
 
