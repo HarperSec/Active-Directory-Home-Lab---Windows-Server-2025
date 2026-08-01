@@ -35,11 +35,8 @@ Windows Server 2025 installed successfully.
 Logged in using the Administrator account.  
 Server booted without errors.  
 
-## Screenshot  
-[![Windows Server](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/01-Windows%20Server%202025.png)  
-[![Installation Process](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/02-Installation%20Process.png)
-
-
+![Windows Server](../screenshots/01-Windows%20Server%202025.png)
+![Installation Process](../screenshots/02-Installation%20Process.png)
 
 ## Lessons Learned  
 Learned how to deploy Windows Server in a virtual environment.  
