@@ -18,10 +18,10 @@ The following user accounts were created:
 
 | User | Department |
 
-| John Smith | IT |
-| Issac Long | IT |
-| Jane Doe | HR |
-| Sarah Johnson | Finance |
+| John Smith | IT |  
+| Issac Long | IT |  
+| Jane Doe | HR |  
+| Sarah Johnson | Finance |  
 
 ## User Organization
 Users were placed into the appropriate Organizational Units based on department.
@@ -45,6 +45,9 @@ Steps performed:
 5. Created a new user account.
 6. Configured user information and password settings.
 
+### User Created
+![User Created](../screenshots/17-Create%20User.png)
+
 ## Security Considerations
 In an enterprise environment, user accounts must be managed carefully to maintain security.
 
@@ -55,10 +58,6 @@ Common security practices include:
 - Assigning permissions through security groups
 - Disabling inactive accounts
 - Monitoring account activity through event logs
-
-## Screenshots
-### Creating a User Account
-[![Creating User](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/17-Create%20User.png)
 
 
 ## Lessons Learned
