@@ -19,9 +19,10 @@ Tasks performed using Server Manager:
 ## Importance in a Real-World Environment
 Server Manager allows administrators to manage Windows Server roles and features without needing to use command-line tools. It provides visibility into server health and simplifies the deployment of important infrastructure services.
 
-## Screenshot
+
 ### Server Manager
-[![Server Manager](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/07-Server%20Manager.png)
+![Server Manager](../screenshots/07-Server%20Manager.png)
+
 
 ## Lessons Learned
 During this lab, I learned how Server Manager is used as a centralized management tool for Windows Server administration. Understanding Server Manager is important because many enterprise environments rely on Windows Server roles and features to provide network services.
