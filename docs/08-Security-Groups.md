@@ -44,6 +44,9 @@ Steps performed:
 6. Selected Security as the group type.
 7. Added users as group members.
 
+### Security Groups
+![Security Groups](../screenshots/18-Security%20Groups%20Created.png)
+
 ## Security Group Types
 For this lab, Global Security Groups were used.
 
@@ -65,9 +68,6 @@ The security groups were verified through Active Directory Users and Computers b
 - Users were added as members.
 - Groups were located in the correct Organizational Units.
 
-## Screenshots
-### Security Groups Created
-[![Security Groups](path/to/image.png)](https://github.com/HarperSec/Active-Directory-Home-Lab---Windows-Server-2025/blob/main/screenshots/18-Security%20Groups%20Created.png)
 
 ## Lessons Learned
 This phase demonstrated how Active Directory uses security groups to simplify access management. Managing permissions through groups improves security, reduces administrative workload, and supports the principle of least privilege.
